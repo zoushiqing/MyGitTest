@@ -8,9 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //fasdfasdfasf  fadf
-        //fasdfasdfasf  fadfgi
-        //fasdfasdfasf  fadf
-        //fasdfasdfasf  fadf
+        //我是 iss53
     }
 }
